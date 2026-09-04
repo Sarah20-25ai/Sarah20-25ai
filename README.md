@@ -10,8 +10,8 @@ Welcome to my profile! I am an **Artificial Intelligence Student** at **Jordan U
 ### 🚀 About Me
 - 🧠 **Major:** Artificial Intelligence (AI)
 - 🏫 **University:** Jordan University of Science and Technology (JUST)
-- 💻 **Core Skills:** C++, Problem Solving, Software Logic Development
-- 🎯 **Current Focus:** Deepening my knowledge in Data Structures, Algorithms, and Machine Learning foundations.
+- 💻 **Core Skills:** Python, C++, Problem Solving, Software Logic Development
+- 🎯 **Current Focus:** Deepening my knowledge in Python, Data Structures foundations.
 
 ---
 
@@ -21,6 +21,7 @@ Welcome to my profile! I am an **Artificial Intelligence Student** at **Jordan U
 ---
 
 ### 🛠️ Tech & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -28,4 +29,4 @@ Welcome to my profile! I am an **Artificial Intelligence Student** at **Jordan U
 ---
 
 ### 📫 Connect with Me
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sarah-jamal-a94270433) for networking and technical collaboration!rofile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f)
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sarah-jamal-a94270433) for networking and technical collaboration!
